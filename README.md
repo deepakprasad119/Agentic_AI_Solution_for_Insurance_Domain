@@ -12,6 +12,8 @@ These diagrams are intended to guide technical teams, solution architects, and A
 
 ### 1. High-Level Architecture Diagram
 
+
+
 A layered view of the proposed Agentic AI solution stack:
 
 * **User Interface Layer**: Web portals, chatbots, call center UIs
@@ -21,6 +23,10 @@ A layered view of the proposed Agentic AI solution stack:
 * **Data & AI Layer**: S3, OpenSearch, Kendra, DynamoDB, and optionally SageMaker
 * **Enterprise System Integration**: Core systems like PAS, CRM, CMS, ERP
 * **Security & Monitoring**: IAM, CloudTrail, GuardDuty, CloudWatch, Config
+
+
+<img src="assets/Agentic_AI_for_Insurance_Technical_Architecture.png" alt="Agentic AI Technical Architecture" width="800"/>
+
 
 ---
 
@@ -52,11 +58,12 @@ A high-level workflow diagram that visualizes how user interactions are routed a
 
 Entry Points: Users initiate requests via phone calls, chatbots, or service portals (e.g., ticketing systems).
 
-Customer Interaction Agent: Serves as the initial conversational interface to understand intent and capture inputs.
+Customer Interaction Agent: Serves as the initial conversational interface to understand intent and capture inputs. ![Customer Interaction Agent Diagram](assets/3.4_Customer_Interaction_Agent.svg)
+
 
 Supervisor Agent: Acts as the central coordinator that interprets the request type and delegates it to the appropriate downstream agent:
 
-Underwriting Agent
+Underwriting Agent 
 
 Policy Issuance Agent
 
@@ -67,6 +74,8 @@ Policy Validation Agent
 Fraud Detection Agent
 
 This diagram helps convey the overall orchestration and routing logic, not internal workflows or HITL delegation.
+
+<img src="assets/Multi_Agent_Integration.png" alt="Multi_Agent_Integration" width="800"/>
 
 ---
 
@@ -102,12 +111,7 @@ Expected outcomes may vary by organization, but typical objectives include:
 
 ---
 
-## 🔗 Reference
-
-You can explore the visual assets and their descriptions in this repository: 
-📁 https://github.com/deepakprasad119/Agentic_AI_Solution_for_Insurance_Domain/tree/main
 
 
----
 
 
