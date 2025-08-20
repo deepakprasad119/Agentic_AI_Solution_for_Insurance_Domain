@@ -34,7 +34,7 @@ A layered view of the proposed Agentic AI solution stack:
 
 Each agent has its own dedicated design diagram showing internal subflows and AWS service interactions:
 
-* **🟨 Customer Interaction Agent**
+* **🟨 Customer Interaction Agent** ![Customer Interaction Agent Diagram](assets/3.4_Customer_Interaction_Agent.svg)
 * **🟫 Supervisor Agent**
 * **🟩 Underwriting Agent**
 * **🟦 Policy Issuance Agent**
@@ -110,6 +110,7 @@ Expected outcomes may vary by organization, but typical objectives include:
 * **Diagrams Format**: SVG, PNG, Markdown with Mermaid where applicable
 
 ---
+
 
 
 
