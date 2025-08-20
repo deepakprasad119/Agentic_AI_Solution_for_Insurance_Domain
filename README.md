@@ -104,8 +104,10 @@ Expected outcomes may vary by organization, but typical objectives include:
 
 ## 🔗 Reference
 
-You can explore the visual assets and their descriptions in this repository:
-📁 \[GitHub Repo URL] (add your actual GitHub link here)
+You can explore the visual assets and their descriptions in this repository: 
+📁 https://github.com/deepakprasad119/Agentic_AI_Solution_for_Insurance_Domain/tree/main
+
 
 ---
+
 
