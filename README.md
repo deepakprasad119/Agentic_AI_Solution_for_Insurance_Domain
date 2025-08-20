@@ -167,6 +167,43 @@ Each agent below has a dedicated diagram (see `/assets` folder) showing internal
 - Integrates with **SageMaker**, **Comprehend**, and **DynamoDB**  
 📎 *See: `3.7_Fraud_Detection_Agent.svg`*
 
+
+
+## 🔍 Agent Design Diagrams (Visual Embeds)
+
+### 🟨 Customer Interaction Agent
+![Customer Interaction Agent](3.4_Customer_Interaction_Agent.svg)
+
+---
+
+### 🟫 Supervisor Agent
+![Supervisor Agent](3.3_Supervisor_Agent.svg)
+
+---
+
+### 🟩 Underwriting Agent
+![Underwriting Agent](3.5_Underwriter_Agent.svg)
+
+---
+
+### 🟦 Policy Issuance Agent
+![Policy Issuance Agent](3.6_Policy_Issuance_Agent.svg)
+
+---
+
+### 🟪 Claims Triage Agent
+![Claims Triage Agent](3.7_Claims_Triage_Agent_AWS.svg)
+
+---
+
+### 🟥 Policy Validation Agent
+![Policy Validation Agent](3.8_Policy_Validation_Agent.svg)
+
+---
+
+### 🟧 Fraud Detection Agent
+![Fraud Detection Agent](3.9_Fraud_Detection_Agent_AWS.svg)
+
 ---
 
 > 💡 You can find all agent diagrams inside the `/assets` folder. Diagrams are in `.svg` and `.png` formats and can be previewed inline in GitHub or embedded in documentation pages.
@@ -211,6 +248,7 @@ Expected outcomes may vary by organization, but typical objectives include:
 * **Diagrams Format**: SVG, PNG, Markdown with Mermaid where applicable
 
 ---
+
 
 
 
