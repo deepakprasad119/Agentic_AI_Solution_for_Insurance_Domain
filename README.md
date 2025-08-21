@@ -57,7 +57,7 @@ This diagram helps convey the overall orchestration and routing logic, not inter
 
 ---
 
-### 3. Agent-Level Design Diagrams
+### 3. Agent-Level Design (Design Diagrams in the next section below)
 
 Each agent has its own dedicated design diagram showing internal subflows and AWS service interactions:
 
@@ -248,6 +248,7 @@ Expected outcomes may vary by organization, but typical objectives include:
 * **Diagrams Format**: SVG, PNG, Markdown with Mermaid where applicable
 
 ---
+
 
 
 
